@@ -1,11 +1,11 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;500;600;700&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 0.95em;
+    background-color: rgb(109, 191, 216);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 1.5em;
     line-height: 1.5em;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(162, 79, 187);
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: rgb(162, 79, 187);
     text-decoration: none;
 }
 
